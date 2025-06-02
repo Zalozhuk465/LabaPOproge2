@@ -1,0 +1,5 @@
+Dish("Pasta", 12.5, 20, True)
+Dish("soup", 11.4, 40, True)
+Drink("Cola", 7.25, 3, False)
+Dessert("Cake", 16.0, 59, True)
+Dish("Steake", 34.0, 62, False)
